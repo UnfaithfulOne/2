@@ -1,0 +1,78 @@
+8/21/2018 7:54:18 PM Info ICD Started
+8/21/2018 7:54:27 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+8/21/2018 7:54:27 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowHeight. The key 'ICDWindowHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowWidth. The key 'ICDWindowWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinHeight. The key 'ICDWindowMinHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinWidth. The key 'ICDWindowMinWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowState. The key 'ICDWindowState' does not exist in the appSettings configuration section.
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:54:18 PM Info ICD Started
+8/21/2018 7:54:27 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+8/21/2018 7:54:27 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowHeight. The key 'ICDWindowHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowWidth. The key 'ICDWindowWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinHeight. The key 'ICDWindowMinHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinWidth. The key 'ICDWindowMinWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowState. The key 'ICDWindowState' does not exist in the appSettings configuration section.
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:55:11 PM Info Project 'C:\Users\jonah\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\Desktop 1\Desktop 1.icdproj.xml' loaded successfully
+8/21/2018 7:55:11 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:55:11 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:55:11 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:55:11 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:55:11 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:55:11 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:55:11 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:55:11 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:54:18 PM Info ICD Started
+8/21/2018 7:54:27 PM Warning Image customization functionality is disabled because imaging tools are not installed.
+8/21/2018 7:54:27 PM Warning Exception on reading AutoLaunchConfigScenarioId. The key 'AutoLaunchConfigScenarioId' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowTitle. The key 'ICDWindowTitle' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowHeight. The key 'ICDWindowHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowWidth. The key 'ICDWindowWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinHeight. The key 'ICDWindowMinHeight' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowMinWidth. The key 'ICDWindowMinWidth' does not exist in the appSettings configuration section.
+8/21/2018 7:54:27 PM Warning Exception on reading ICDWindowState. The key 'ICDWindowState' does not exist in the appSettings configuration section.
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:54:53 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:54:53 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:54:53 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:55:11 PM Info Project 'C:\Users\jonah\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\Desktop 1\Desktop 1.icdproj.xml' loaded successfully
+8/21/2018 7:55:11 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:55:11 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:55:11 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:55:11 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:55:11 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:55:11 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:55:11 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:55:11 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:58:20 PM Info Project 'C:\Users\jonah\OneDrive\Documents\Windows Imaging and Configuration Designer (WICD)\Desktop 1\Desktop 1.icdproj.xml' loaded successfully
+8/21/2018 7:58:20 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:58:20 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:58:20 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Common-Provisioning.dat
+8/21/2018 7:58:20 PM Info Loaded settings from Windows Unknown Unknown
+8/21/2018 7:58:20 PM Info Loaded Knobs schema hive at C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:58:20 PM Error WpxGetFileEdition (onecore\base\ntsetup\wpx\core\store.cpp:103) - 0x80070002:
+8/21/2018 7:58:20 PM Error     No SKU information file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.sku.xml available for store file C:\Program Files\WindowsApps\Microsoft.WindowsConfigurationDesigner_1000.17134.0.0_x86__8wekyb3d8bbwe\icd\Microsoft-Desktop-Provisioning.dat
+8/21/2018 7:58:20 PM Info Loaded settings from Windows Unknown Unknown
